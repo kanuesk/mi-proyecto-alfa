@@ -60,16 +60,17 @@
                 <p>ENVIOS Y POLITICAS</p>
             </div>
             <p>LIQUIDACION EN DIVISAS</p>
-            <p>Despachos directos a nivel nacional via Zoom</p>
+            <p>Despachos directos a nivel nacional via Zoom, DHL Express y Tealca asegurado. Envios express a Caracas el mismo dia</p>
+            <p>USD TARIFA PLANA PAGO MOVIL / ZELLE / USDT</p>
         </div>
     </div>
     <!-- Inferior  -->
     <div>
         <div>
-            <p>sdfasdf</p>
+            <p> C 2025 KULT Caracas. TODOS LOS DERECHOS RESERVADOS. IDENTIDAD URBANA SUBVERSIVA.</p>
         </div>
         <div>
-            <p>sadfasfd</p>
+            <p>TERMINOS DE SERVICIO PRIVACIDAD Y DATOS ESPECIFICACIONES TECNICAS</p>
         </div>
     </div>
 </footer>
