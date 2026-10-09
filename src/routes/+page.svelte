@@ -1,7 +1,7 @@
-<header>
+
 <div>
     <div>
-        <img src="portada.webp" alt="Portada">
+        <img src="/imagenes/portada.webp" alt="Portada">
     </div>
     <div>
         <div>
@@ -32,4 +32,5 @@
     </div>
 </div>
 
-</header>
+
+

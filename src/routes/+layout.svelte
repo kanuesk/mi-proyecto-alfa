@@ -41,5 +41,35 @@
 </header>
 
 
-
 {@render children()}
+
+<footer>
+    <!-- Superior -->
+    <div> 
+        <div>
+            <div>
+                <img src="" alt="">
+                <p>Telier // coordenadas</p>
+            </div>
+            <p>Chacao / Las Mercedes</p>
+            <p></p>
+        </div>
+        <div>
+            <div>
+                <img src="" alt="">
+                <p>ENVIOS Y POLITICAS</p>
+            </div>
+            <p>LIQUIDACION EN DIVISAS</p>
+            <p>Despachos directos a nivel nacional via Zoom</p>
+        </div>
+    </div>
+    <!-- Inferior  -->
+    <div>
+        <div>
+            <p>sdfasdf</p>
+        </div>
+        <div>
+            <p>sadfasfd</p>
+        </div>
+    </div>
+</footer>
