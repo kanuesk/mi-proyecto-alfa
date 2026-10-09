@@ -1,6 +1,7 @@
 <script lang="ts">
 	import './layout.css';
 	import favicon from '#lib/assets/favicon.svg';
+    import Icon from "@iconify/svelte";
 
 	let { children } = $props();
 </script>
@@ -33,9 +34,16 @@
         </div>
         
         <div>
-            <button>Buscar</button>
-            <button>Bolsa</button>
-            <button>Usuario</button>
+            <button>
+                <Icon icon="ic:baseline-search" width={32} height={32} />
+            </button>
+            <button>  
+                <Icon icon="bi:bag" width={32} height={32} />
+            </button>
+            <button>
+                <Icon icon="iconamoon:profile" width={32} height={32} />
+            </button>
+        
         </div>
     </div>
 </header>
