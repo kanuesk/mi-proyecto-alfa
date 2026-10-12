@@ -81,3 +81,22 @@
  </form>  
 </div>
 
+<div>
+    <div>
+<p>Caracas (VE) - ATELIER CENTRAL</p>
+<p>CONFECCION ARTESANAL</p>
+<p>Patronaje y confeccion unitaria en Las Mercedes. Cada prenda es estructurada y ajustada en Caracas bajo estandares de durabilidad industrial</p>
+
+    </div>
+    <div>
+        <div>
+<p>COORDENADAS</p>
+<p>10. 4806* N, -66. 8611*- W</p>
+        </div>
+        <div>
+<p>VER UBICACION</p>
+        </div>
+    </div>
+</div>
+
+
