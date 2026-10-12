@@ -29,7 +29,7 @@
             <a href="/">Inicio</a>
             <a href="/catalogo">Catalogo</a>
             <a href="">Productos</a>
-            <a href="">Contacto</a>
+            <a href="/contacto">Contacto</a>
 
         </div>
         
