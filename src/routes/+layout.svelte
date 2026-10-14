@@ -12,28 +12,29 @@
 
 
 <header>
-    <div>
-        <p>Envía expres gratuito en pedidos superiores a 120 USDT</p>
 
-        <div>
-            <p>Caracas (VE) // Latam</p>
-            <p>Edición limitada SS25</p>
+    <div class="flex justify-between bg-black px-8">
+        <p class="uppercase font-semibold text-white text-xs">Envía expres gratuito en pedidos superiores a 120 USDT</p>
+
+        <div class="flex gap-3">
+            <p class="uppercase font-semibold text-gray-300 text-xs">Caracas (VE) // Latam</p>
+            <p class="uppercase font-semibold bg-lime-400 text-black text-xs">Edición limitada SS25</p>
         </div>
     </div>
 
     
-    <div>
+    <div class="flex justify-between px-5">
         <img src="" alt="">
 
-        <div>
-            <a href="/">Inicio</a>
-            <a href="/catalogo">Catalogo</a>
-            <a href="">Productos</a>
-            <a href="/contacto">Contacto</a>
+        <div class="flex">
+            <a href="/" class="bg-gray-950 text-white px-5 py-5 uppercase">Inicio</a>
+            <a href="/catalogo" class=" text-black px-5 py-5 uppercase">Catalogo</a>
+            <a href="/producto" class=" text-black px-5 py-5 uppercase">Productos</a>
+            <a href="/contacto" class=" text-black px-5 py-5 uppercase">Contacto</a>
 
         </div>
         
-        <div>
+        <div class="py-5 px-7">
             <button>
                 <Icon icon="ic:baseline-search" width={32} height={32} />
             </button>
