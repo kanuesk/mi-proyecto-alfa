@@ -125,7 +125,7 @@
               <p class="font-semibold">10. 4806* N, -66. 8611*- W</p>
         </div>
         <div class="bg-white text-black">
-           <p class="font-semibold">VER UBICACION</p>
+           <p class="font-semibold px-3 py1">VER UBICACION</p>
         </div>
     </div>
 
