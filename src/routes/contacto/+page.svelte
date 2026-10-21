@@ -110,7 +110,7 @@
         <span class="text-xs py-1 font-Mono">MENSAJE</span>
         <input type="text" name="mensaje" placeholder="Escriba su consulta o solicitud de cita..." required>
     </div>
-    <div class="flex justify-start px-10 py-3 bg-white text-black mx-10 font-Mono transition-colors duration-300 ease-in-out hover:bg-black hover:text-white">
+    <div class="border border-white flex justify-start px-10 py-3 bg-white text-black mx-10 font-Mono transition-colors duration-300 ease-in-out hover:bg-black hover:text-white">
      <button type="submit">ENVIAR MENSAJE</button>
     </div>
 
@@ -141,4 +141,6 @@
     </div>
 </div>
 
+<!-- Separador entre el contenido y el footer -->
+<div class=" mt-8 border-t-2 border-black"></div>
 
