@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" width="600" height="750" role="img" aria-label="GORRA TRUCKER">
+  <rect width="600" height="750" fill="#e7e5e4"/>
+  <rect x="30" y="30" width="540" height="690" fill="none" stroke="#111111" stroke-width="4"/>
+  <rect x="60" y="60" width="110" height="32" fill="#bef264" stroke="#111111" stroke-width="3"/>
+  <text x="115" y="82" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#111111" letter-spacing="2">SS25</text>
+  <text x="300" y="380" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" text-anchor="middle" fill="#111111" letter-spacing="1">GORRA TRUCKER</text>
+  <text x="300" y="424" font-family="Arial, Helvetica, sans-serif" font-size="15" text-anchor="middle" fill="#57534e" letter-spacing="3">KULT CARACAS</text>
+  <rect x="60" y="640" width="480" height="2" fill="#111111"/>
+  <text x="300" y="676" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="middle" fill="#57534e" letter-spacing="3">EDICION LIMITADA</text>
+</svg>
