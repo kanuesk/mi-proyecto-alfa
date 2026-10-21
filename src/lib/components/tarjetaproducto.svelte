@@ -1,5 +1,7 @@
 <script>
     import Icon from "@iconify/svelte";
+    
+    const datos = $props
 
 </script>
 
