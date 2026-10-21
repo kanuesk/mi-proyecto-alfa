@@ -100,7 +100,7 @@
                <div class="text-xs flex flex-col gap-2">
                 <p class="uppercase font-semibold font-Mono">LIQUIDACION EN DIVISAS (USD)</p>
                 <p class="font-Mango">Despachos directos a nivel nacional via Zoom, DHL Express y Tealca asegurado. Envios express a Caracas el mismo dia</p>
-                <p class="font-Mono">USD TARIFA PLANA PAGO MOVIL / ZELLE / USDT</p>
+                <p class="font-Mono font-bold">USD TARIFA PLANA PAGO MOVIL / ZELLE / USDT</p>
                </div>
               </div>
            </div>
