@@ -38,7 +38,7 @@ export const productos: Producto[] = [
         id: 'sudadera-hoodie-oversize',
         titulo: 'Sudadera Hoodie Oversize',
         caracteristicas: 'Sudadera negra con capucha y bolsillo canguro',
-        imagen: '/imagenes/productos/sudadera-hoodie-oversize.svg',
+        imagen: 'https://image.made-in-china.com/202f0j00lJYkwOtqlCou/Men-s-Hoodies-Streetwear-Drop-Shoulder-Heavyweight-Cotton-Pullover-Oversize-Sweatshirts-Vintage-Hoodie-for-Men.webp',
         precio: 89,
         descuento: 15
     },
@@ -46,7 +46,7 @@ export const productos: Producto[] = [
         id: 'camiseta-boxy',
         titulo: 'Camiseta Boxy',
         caracteristicas: 'Camiseta boxy de cotton negro',
-        imagen: '/imagenes/productos/camiseta-boxy.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdFwlIyZOnCoqntvo6vLY2x-tmtJ3RxTTFYPb1-P1hIw&s',
         precio: 35,
         descuento: 10
     },
@@ -54,7 +54,7 @@ export const productos: Producto[] = [
         id: 'chaqueta-bomber',
         titulo: 'Chaqueta Bomber',
         caracteristicas: 'Bomber negro con ribete elastico',
-        imagen: '/imagenes/productos/chaqueta-bomber.svg',
+        imagen: 'https://lscoglobal.scene7.com/is/image/lscoglobal/MT_005AL-0001_GLO_CM_DA?fmt=jpeg&qlt=70&resMode=sharp2&fit=crop,1&op_usm=0.6,0.6,8&wid=2000&hei=2500',
         precio: 120,
         descuento: 20
     },
@@ -62,7 +62,7 @@ export const productos: Producto[] = [
         id: 'short-cargo',
         titulo: 'Short Cargo',
         caracteristicas: 'Short cargo militar verde oliva',
-        imagen: '/imagenes/productos/short-cargo.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkoF1iI-3KDuk2gvYbLV8MbuQprR-qs5Nsn3l3xsqDFONUtPGK4yFuo_w&s=10',
         precio: 65,
         descuento: 12
     },
@@ -70,7 +70,7 @@ export const productos: Producto[] = [
         id: 'gorra-trucker',
         titulo: 'Gorra Trucker',
         caracteristicas: 'Gorra trucker negra bordada',
-        imagen: '/imagenes/productos/gorra-trucker.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST513CaTgAA5gIjwxTRZg-X8w7ljD5iL5LEulup3zA9tJAHuW-DVGELFTg&s=10',
         precio: 25,
         descuento: 5
     },
@@ -78,7 +78,7 @@ export const productos: Producto[] = [
         id: 'zapatillas-running',
         titulo: 'Zapatillas Running',
         caracteristicas: 'Zapatillas running blancas con suela alta',
-        imagen: '/imagenes/productos/zapatillas-running.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZKZvhtZzgNRxvYMkIVjXh4SpEZJRkDDIcbjO9DW6EDVcUaOdUOwbt2Ax&s=10',
         precio: 110,
         descuento: 12
     },
@@ -86,7 +86,7 @@ export const productos: Producto[] = [
         id: 'medias-pack',
         titulo: 'Medias Pack x3',
         caracteristicas: 'Pack de tres pares de medias negras',
-        imagen: '/imagenes/productos/medias-pack.svg',
+        imagen: 'https://solocononce.com/cdn/shop/products/PACK-DE-3-MEDIAS-TRIO-DE-MEDIAS-BLANCO-NEGRO-GRIS-JASPE-UNISEX-ONCE-PIJAMAS2.jpg?v=1657812155',
         precio: 12,
         descuento: 8
     },
@@ -94,7 +94,7 @@ export const productos: Producto[] = [
         id: 'rinonera-crossbody',
         titulo: 'Riñonera Crossbody',
         caracteristicas: 'Riñonera crossbody negra impermeable',
-        imagen: '/imagenes/productos/rinonera-crossbody.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyWq4JZwQvmu6VU6m0_5E5bNoBrRX7eu4Ow9raIqZWP3AhB0wII4lVP8Y&s=10',
         precio: 55,
         descuento: 10
     },
@@ -102,7 +102,7 @@ export const productos: Producto[] = [
         id: 'lentes-oversize',
         titulo: 'Lentes Oversize',
         caracteristicas: 'Lentes de sol oversize negros',
-        imagen: '/imagenes/productos/lentes-oversize.svg',
+        imagen: 'https://http2.mlstatic.com/D_NQ_NP_906542-MLV114767145062_082026-O.webp',
         precio: 45,
         descuento: 5
     },
@@ -110,7 +110,7 @@ export const productos: Producto[] = [
         id: 'camisa-oversize',
         titulo: 'Camisa Oversize',
         caracteristicas: 'Camisa oversize de rayas grises',
-        imagen: '/imagenes/productos/camisa-oversize.svg',
+        imagen: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8u_8cgCRbJ5s_HIrY3vYioBQuGVCLRbfh6yntBNVazLdPAUrmu2YCfUoa&s=10',
         precio: 70,
         descuento: 15
     },
@@ -118,7 +118,7 @@ export const productos: Producto[] = [
         id: 'gorro-punto',
         titulo: 'Gorro de Punto',
         caracteristicas: 'Gorro de punto negro canalado',
-        imagen: '/imagenes/productos/gorro-punto.svg',
+        imagen: 'https://i5-mx.walmartimages.com/asr/2c770a9f-67d8-404a-bb0a-66e53235e646.89e885d7ffc309d3a0db4e4b1d9354a2.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF',
         precio: 22,
         descuento: 10
     },
@@ -126,7 +126,7 @@ export const productos: Producto[] = [
         id: 'sling-bag',
         titulo: 'Sling Bag',
         caracteristicas: 'Bolso slingbelt tecnico con cierre hidden',
-        imagen: '/imagenes/productos/sling-bag.svg',
+        imagen: 'https://www.markrydenusa.com/cdn/shop/collections/sling_bag_2.jpg?v=1755692555',
         precio: 75,
         descuento: 18
     },
