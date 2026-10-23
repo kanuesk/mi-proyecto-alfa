@@ -1,3 +1,7 @@
+<script>
+    import FormularioContactos from '#lib/components/FormularioContactos.svelte';
+</script>
+
 <div class="py-7 px-8 flex flex-col gap-2">
     <div class="flex items-center gap-2">
         <span class="block bg-lime-400 w-2 h-2"></span>
@@ -162,52 +166,7 @@
         </div>
     </div>
 
-    <div class="bg-black text-white py-6 mx-8 my-3 flex-1">
-        <div class="flex justify-between px-10 py-7 font-Mono">
-            <div class="flex items-center gap-2">
-                <span class="block bg-lime-400 w-2 h-2"></span>
-                <p>FORMULARIO DE ENTRADA INDUSTRIAL</p>
-            </div>
-            <p class="bg-lime-500 text-black px-2 font-semibold font-Mono">
-                SLOT ABIERTO
-            </p>
-        </div>
-
-        <form action="" method="get">
-            <div class="flex flex-col px-10 py-5">
-                <span class="text-xs py-1 font-Mono">NOMBRE COMPLETO</span>
-                <input
-                    type="text"
-                    name="nombre"
-                    placeholder="Alejandro Silva"
-                    required
-                />
-            </div>
-            <div class="flex flex-col px-10 py-5">
-                <span class="text-xs py-1 font-Mono">CORREO ELECTRÓNICO</span>
-                <input
-                    type="email"
-                    name="correo"
-                    placeholder="nombre@ejemplo.com"
-                    required
-                />
-            </div>
-            <div class="flex flex-col px-10 py-5">
-                <span class="text-xs py-1 font-Mono">MENSAJE</span>
-                <input
-                    type="text"
-                    name="mensaje"
-                    placeholder="Escriba su consulta o solicitud de cita..."
-                    required
-                />
-            </div>
-            <div
-                class="border border-white flex justify-start px-10 py-3 bg-white text-black mx-10 font-Mono transition-colors duration-300 ease-in-out hover:bg-black hover:text-white"
-            >
-                <button type="submit">ENVIAR MENSAJE</button>
-            </div>
-        </form>
-    </div>
+    <FormularioContactos />
 </div>
 
 <!-- Separador entre el contenido y el footer -->

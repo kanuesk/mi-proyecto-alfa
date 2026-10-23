@@ -6,6 +6,9 @@
 
     const producto = $derived(data.producto);
     const precio = $derived(precioFinal(producto));
+
+    const micarrito = () => {
+    }
 </script>
 
 <section class="px-5 py-8">
@@ -37,7 +40,7 @@
             </div>
 
             <button
-                class="bg-black text-white uppercase font-Mono px-6 py-3 border-2 border-black transition-colors duration-300 ease-in-out hover:bg-lime-400 hover:text-black"
+                class="bg-black text-white uppercase font-Mono px-6 py-3 border-2 border-black transition-colors duration-300 ease-in-out hover:bg-lime-400 hover:text-black" onclick={micarrito}
             >
                 Agregar a la bolsa
             </button>
